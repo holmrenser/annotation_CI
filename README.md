@@ -4,3 +4,5 @@
 Continuous integration for genomic annotations
 
 This is an example on how to set up continuous testing of genomic annotations in a community annotation project.
+
+Check out the pull requests for an example that is still broken and an example that fixes a wrong annotation
