@@ -1,0 +1,7 @@
+#gff-version 3
+test1       merged  gene    26      1075    .       +       .       ID=test_gene1
+test1       merged  mRNA    26      1075    .       +       .       ID=test_gene1.1;Parent=test_gene1
+test1       merged  CDS     26      221     .       +       0       ID=test_gene1.CDS1;Parent=test_gene1.1
+test1       merged  exon    26      221     .       +       .       ID=test_gene1.exon1;Parent=test_gene1.1
+test1       merged  CDS     351     1075    .       +       2       ID=test_gene1.CDS2;Parent=test_gene1.1
+test1       merged  exon    351     1075    .       +       .       ID=test_gene1.exon2;Parent=test_gene1.1
