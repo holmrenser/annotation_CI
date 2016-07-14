@@ -1,7 +1,7 @@
 #gff-version 3
-test1	merged	gene	26	1074	.	+	.	ID=fail_gene1
-test1	merged	mRNA	26	1074	.	+	.	ID=fail_gene1.1;Parent=fail_gene1
+test1	merged	gene	26	1073	.	+	.	ID=fail_gene1
+test1	merged	mRNA	26	1073	.	+	.	ID=fail_gene1.1;Parent=fail_gene1
 test1	merged	CDS	26	221	.	+	0	ID=fail_gene1.CDS1;Parent=fail_gene1.1
 test1	merged	exon	26	221	.	+	.	ID=fail_gene1.exon1;Parent=fail_gene1.1
-test1	merged	CDS	351	1074	.	+	2	ID=fail_gene1.CDS2;Parent=fail_gene1.1
-test1	merged	exon	351	1074	.	+	.	ID=fail_gene1.exon2;Parent=fail_gene1.1
+test1	merged	CDS	351	1073	.	+	2	ID=fail_gene1.CDS2;Parent=fail_gene1.1
+test1	merged	exon	351	1073	.	+	.	ID=fail_gene1.exon2;Parent=fail_gene1.1
